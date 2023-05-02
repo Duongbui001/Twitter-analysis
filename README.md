@@ -15,9 +15,11 @@ Furthermore, the study analysed the 20 most popular emojis used in the dataset, 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121313767/235666092-6cf68ae1-51fc-4c58-8324-f910370d74b1.png">
 
 Subsequently, the project visualised the data collected in Wordcloud to detect the most commonly used single words in tweets and examine the popular trends in the conversation on Twitter. Some words were eliminated, such as Donald, Trump and linking words, in order to visualise the importance of other topics. As shown by the Wordcloud below, the main conversation on Twitter was about the criminal charges against former President Donald Trump. Some interesting words that showed up frequently in the tweets included lie, end, and guilty, giving the notion that public opinion is inclined towards the jury’s decision and against Trump.
+
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121313767/235666166-f17c076f-1dc0-4e7b-b91f-ffd37f47c573.png">
 
 The project also used another Wordcloud to detect the most frequently mentioned (@) accounts in the dataset. @realDonaldTrump is obviously in first place, followed by @DonaldJTrumpJr, @RepMTG (Marjorie Taylor Greene) and @GOP. Looking at the tweets with those mentions, the research found that most of them included negative arguments against Donald Trump and the Republican Party after his indictment.
+
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121313767/235666202-2ad54f80-caf1-431a-9ef3-f173e3085dee.png">
 
 For the main analysis of the project, the research chose the lexical approach to analyse the content of the tweets collected using Vader (Valence Aware Dictionary and sEntiment Reasoner). Vader is known as an effective method for sentiment analysis that detects polarity (positive, neutral, or negative opinions) within the text, with a range score of -1 to 1 (negative-positive).
