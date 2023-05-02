@@ -61,5 +61,5 @@ Gaisbauer et al. (2021) Ideological differences in engagement in public debate o
 
 Kumar, P. (2017) An Introduction to N-grams: What Are They and Why Do We Need Them?. Available at: https://blog.xrds.acm.org/2017/10/introduction-n-grams-need/
 [Accessed: 20 Abril 2023]
-![image](https://user-images.githubusercontent.com/121313767/235665397-a9c43c71-356c-42d6-bbe5-8c516176b6cf.png)
+
 
