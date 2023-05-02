@@ -29,12 +29,14 @@ As shown in the chart above, the dominant sentiment on Twitter regarding Donald 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121313767/235666290-9d65188c-be18-4019-a2d5-8b32edf40d19.png">
 
 In the case of sentiment analysis by topic, based on the most popular two-word sequences, the general public's opinion was largely negative towards ‘donald trump’, ‘hush money’ and ’34 felony’. Meanwhile, the tone of conversation related to ‘grand jury’ was relatively positive, as many expressed supports for the jury’s decision.
+
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121313767/235666328-d0ba895d-13d3-4091-aee1-00b722509b17.png">
 
 Furthermore, in the sentiment analysis by the most frequently mentioned accounts, the replies to @realDonaldTrump and other important figures of the Republican Party, like @SpeakerMcCarthy, @RepMTG and @DonaldJTrumpJr, were negative. 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/121313767/235666366-3fea2168-9754-4e1a-a020-6dd555f4e270.png">
 
 On the other side, examining the replies to @ManhattanDA in the dataset, various Trump supporters showed negative reactions towards the jury’s decisions. 
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/121313767/235666397-e3479fa5-9c91-4589-9c92-c43c4797fbde.png">
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/121313767/235666414-ca07b9b5-704c-4930-9406-9df4a05133aa.png">
 
