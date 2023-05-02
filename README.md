@@ -38,6 +38,7 @@ Furthermore, in the sentiment analysis by the most frequently mentioned accounts
 On the other side, examining the replies to @ManhattanDA in the dataset, various Trump supporters showed negative reactions towards the jury’s decisions. 
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/121313767/235666397-e3479fa5-9c91-4589-9c92-c43c4797fbde.png">
+
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/121313767/235666414-ca07b9b5-704c-4930-9406-9df4a05133aa.png">
 
 Meanwhile, another protagonist of the event, @StormyDaniels, received support and encouragement online as many members of the public showed a positive attitude towards her based on the text analysis.
